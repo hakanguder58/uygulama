@@ -44,10 +44,4 @@ class FitnessTracker:
             "Yağ (g)": round(fat)
         }
 
-# Örnek Kullanım
-user = FitnessTracker(name="Deniz", weight=80, height=180, age=25, gender="erkek", activity_level=1.55)
-print(f"--- {user.name} için Beslenme Planı ---")
-plan = user.get_macros(goal='zayıflama')
-
-for key, value in plan.items():
     print(f"{key}: {value}")
