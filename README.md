@@ -1,9 +1,3 @@
-GitHub profilinde hem göze hitap edecek hem de işlevsel duracak bir proje için Python ile yazılmış bir "Makro Besin ve Kalori Hesaplayıcı" hazırladım. Bu tür projeler, veri işleme ve kullanıcı etkileşimi yeteneklerini göstermek için harikadır.
-
-Aşağıdaki kodu fitness_tracker.py adıyla kaydedip GitHub'a yükleyebilirsin.
-
-Proje Kodu: Makro ve Kalori Takip Aracı
-Python
 
 import datetime
 
